@@ -1,0 +1,12 @@
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.csprojResolveAssemblyReference.cache
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.Form1.resources
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.csproj.GenerateResource.Cache
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.FormGame.resources
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.FormCodigos.resources
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.Properties.Resources.resources
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\bin\Debug\Comilao.exe.config
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\bin\Debug\Comilao.exe
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\bin\Debug\Comilao.pdb
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.exe
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.pdb
+C:\Users\rodri\Documents\SharpDevelop Projects\Comilao\Comilao\obj\Debug\Comilao.FormOpcoes.resources
